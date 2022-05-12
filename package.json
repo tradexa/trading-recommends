@@ -1,7 +1,7 @@
 {
-  "name": "trading-view-recommends",
+  "name": "trading-view-trends",
   "version": "1.0.0",
-  "description": "Trading view recommends",
+  "description": "Trading view trends",
   "engines": {
     "node": ">= 14.16"
   },
@@ -34,11 +34,12 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "repository": "https://github.com/tradexa/cryptocurrency-trading-indicators.git",
+  "repository": "https://github.com/tradexa/trading-view-trends.git",
   "author": "stellantilet <stellantilet@gmail.com>",
   "license": "MIT",
   "keywords": [
     "trading",
+    "trends",
     "recommends",
     "tradexa",
     "ccxt",

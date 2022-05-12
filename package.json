@@ -1,6 +1,6 @@
 {
   "name": "trading-view-trends",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trading view trends",
   "engines": {
     "node": ">= 14.16"

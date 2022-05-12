@@ -1,4 +1,4 @@
-# Trading view recommends
+# Trading view trends
 
 Written on NodeJS with typescript
 
@@ -7,7 +7,7 @@ This package is fully compatible with original python lib: [deathlyface/python-t
 ## Install
 
 ```
-npm i trading-view-recommends
+npm i trading-view-trends
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ import {
   SCREENERS_ENUM,
   EXCHANGES_ENUM,
   INTERVALS_ENUM,
-} from 'trading-view-recommends';
+} from 'trading-view-trends';
 
 const result = await new TradingViewScan(
   SCREENERS_ENUM['crypto'],
